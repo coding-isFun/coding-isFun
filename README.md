@@ -1,5 +1,5 @@
-## Favorite language: Python
-## Interested in starting GitHub :)
+## My favorite language is Python
+## I enjoy VS Code
 
 <!--
 **coding-isFun/coding-isFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
