@@ -1,4 +1,4 @@
-## Hi there 👋
+## Favorite language: Python
 
 <!--
 **coding-isFun/coding-isFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
